@@ -9,7 +9,7 @@
 
     <groupId>com.github.lkqm</groupId>
     <artifactId>huaweicloud-obs-spring-boot-starter</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>${project.artifactId}</name>
     <description>HuaWei Cloud Object Storage Spring Boot Starter</description>
